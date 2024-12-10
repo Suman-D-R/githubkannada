@@ -3,4 +3,4 @@ const b = 20;
 const c = 30;
 
 //added two numbers
-console.log(a + b);
+console.log(a + b + c);
