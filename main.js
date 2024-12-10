@@ -6,3 +6,7 @@ const c = 30;
 console.log(a + b);
 console.log('kannadacoder');
 console.log(a + b + c);
+
+// addition
+const sum = a + b + c;
+console.log(sum);
